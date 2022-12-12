@@ -36,4 +36,3 @@ class SecondAdapter : RecyclerView.Adapter<SecondAdapter.SecondViewHolder>(){
         notifyDataSetChanged()
     }
 }
-}
