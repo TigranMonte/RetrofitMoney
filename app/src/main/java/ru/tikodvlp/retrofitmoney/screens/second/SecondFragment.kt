@@ -31,6 +31,7 @@ class SecondFragment : Fragment() {
         viewModel.myMoneyList.observe(viewLifecycleOwner, { list->
             list.body()?.let { adapter.setList(it) }
         })
+
         return view
     }
 }
