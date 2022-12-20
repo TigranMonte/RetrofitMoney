@@ -41,7 +41,6 @@ class RootFragment : Fragment() {
                 }
             }
         }.attach()
-
         return view
     }
 }

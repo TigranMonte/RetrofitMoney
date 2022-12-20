@@ -8,9 +8,7 @@ import android.view.ViewGroup
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.RecyclerView
 import kotlinx.android.synthetic.main.fragment_second.view.*
-import kotlinx.android.synthetic.main.fragment_start.view.*
 import ru.tikodvlp.retrofitmoney.R
-import ru.tikodvlp.retrofitmoney.screens.start.StartAdapter
 
 class SecondFragment : Fragment() {
 
